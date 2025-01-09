@@ -26,6 +26,8 @@ This project uses Power BI for building interactive dashboards and analysis.
 ## Notes 
 The dataset contains 17049 rows of data which does not ressemble the whole population of the Australian Car Market. However, it does provide some idea and picture of what the Australian car Market is like. 
 
+There is a PDF file located in the github repository that shows what the visualizations look like. Feel free to download the Power BI file to be able to interact with the dashboard.
+
 
 
 
